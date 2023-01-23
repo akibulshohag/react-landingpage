@@ -1,0 +1,39 @@
+.main {
+    background-color: #EFF7F2;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  .navbar__item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 100px;
+  }
+  .nav__item {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+   width: 600px;
+  }
+  .nav__item p {
+    font-weight: 700;
+    cursor: pointer;
+    padding: 5px 8px;
+
+  }
+
+  .button {
+    background-color: #000000;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0px 0;
+  }
+
+  

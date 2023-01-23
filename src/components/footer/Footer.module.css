@@ -1,0 +1,112 @@
+.footer {
+    color: #85898d;
+    padding: 0px;
+    position: relative;
+    background-color: #000000;
+  }
+  .content__wrapper {
+    max-width: '100%';
+    flex-direction: row;
+    margin: 0 auto;
+    display: flex;
+    font-size: 14px;
+    padding:  100px;
+    
+  }
+  .brand__content__wrapper {
+    text-align: left;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .brand__content__wrapper ul {
+    display: inline-flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+  }
+  .brand__content__wrapper li {
+    vertical-align: middle;
+    margin-left: 10px;
+  }
+  
+  .page__content__wrapper {
+    display: flex;
+    flex-direction: row;
+    padding-top: 0;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 100px;
+    width:40%;
+  }
+  .page__info__content {
+    flex-basis: unset;
+    padding-left: 64px;
+  }
+  .page__info__content h4 {
+    font-size: 16px;
+    color: white;
+  }
+  .page__info__content ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  .page__info__content li {
+    padding: 0px 0px;
+  }
+  .page__info__content p:hover {
+    color: white;
+  }
+
+  .subscribe {
+    flex-basis: unset;
+    padding-left: 120px;
+  }
+ 
+  .subscribe ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  .subscribe li {
+    padding: 0px 0px;
+  }
+  .subscribe p:hover {
+    color: white;
+  }
+  .subscribe h1{
+    line-height: 40px;
+    height:30px;
+    color: #fff;
+    font-size: 35px
+  }
+  .subscribeContent{
+    width: 400px;
+    height: 110px;
+  }
+  .input{ 
+    border: 1px solid rgb(104, 102, 102);
+    border-radius: 5px;
+    height: 48px;
+    width: 100%;
+    padding: 0px 10px;
+    outline: none;
+    background-color: #000000;
+  }
+  .inputContainer{
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    align-items: center;
+  }
+  .button{
+    background-color: #ffffff;
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    padding: 18px 15px;
+    width: 120px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: -20px;
+
+  }
+  
