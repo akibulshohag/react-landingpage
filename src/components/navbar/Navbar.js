@@ -7,7 +7,7 @@ const Navbar = () => {
     
       <div className={styles.navbar__item}>
         <div style={{ cursor: "pointer" }}>
-        <h2>Finsweet</h2>
+        <h2>{'{'}Finsweet</h2>
         </div>
         <div className={styles.nav__item}>
           <p style={{color:'#000'}}>Home</p>
