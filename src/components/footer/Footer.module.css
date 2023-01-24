@@ -3,6 +3,7 @@
     padding: 0px;
     position: relative;
     background-color: #000000;
+    
   }
   .content__wrapper {
     max-width: '100%';
@@ -11,6 +12,8 @@
     display: flex;
     font-size: 14px;
     padding:  100px;
+    max-width: 82rem;
+    margin: 0px auto;
     
   }
   .brand__content__wrapper {

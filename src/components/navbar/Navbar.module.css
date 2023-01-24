@@ -11,6 +11,8 @@
     align-items: center;
     justify-content: space-between;
     padding: 0px 100px;
+    max-width: 82rem;
+    margin: 0px auto;
   }
   .nav__item {
    display: flex;

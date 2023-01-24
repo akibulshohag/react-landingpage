@@ -1,0 +1,33 @@
+.main{
+    min-height:370px;
+    padding: 0px 100px;
+    max-width: 82rem;
+    margin: 0px auto;
+}
+.container{
+   
+        display: flex;
+        flex-direction: row;
+        justify-content:space-between;
+       
+    
+}
+.contribute{
+    width: 550px;
+}
+.contribute p{
+    font-size:40px;
+    font-weight: 800;
+}
+.OverviewContainer{
+    width: 550px;
+    height: 30px;
+}
+.overview{
+ display: flex;
+ align-items:center;
+ width: 300px;
+ border-bottom: 1px solid #1239;
+ margin-top: 50px;
+ margin-bottom: 25px;
+}
